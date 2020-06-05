@@ -1,0 +1,19 @@
+body{
+  background-color:#E4E4E4;
+}
+hr{
+  border-style:none;
+  border-top-style: dotted;
+  border-color:grey;
+  border-width:10px;
+  width: 10%;}
+h1,h3{
+  color:#FDA172;
+}
+
+.school:hover{
+  border-radius:50%;
+}
+.college:hover{
+  border-radius:50%;
+}
